@@ -2,7 +2,7 @@
 
 A minimal Vercel project that reports how and where a serverless function is running. A static page calls an API route, and the function returns deployment details as JSON.
 
-**Live demo:** [here.](https://region-oracle.vercel.app/))
+**Live demo:** [here.](https://region-oracle.vercel.app/)
 
 ## What it shows
 
